@@ -69,3 +69,6 @@ body {
 ## Summary
 
 When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
+
+
+https://assuahborsah.github.io/Plotly_deployment/
